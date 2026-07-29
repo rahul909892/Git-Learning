@@ -1,4 +1,6 @@
 # Git Learning
 
-This my second Git lession
+This my second Git lesson
+
+Today I learned git diff
 
